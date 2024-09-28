@@ -27,7 +27,15 @@ regedit
 `CurrentVersion`
 
 ~ go to
-`Explorer` -> `right click` -> `new` -> `String Value`
+`Explorer` -> `right click` -> `new` -> `Key` 
+
+~ name it
+```bash
+Shell Icons
+```
+
+~ in shell icons
+`right click` -> `new` -> `String Value`
 
 ~ add value
 ```bash
