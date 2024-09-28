@@ -51,7 +51,7 @@ Shell Icons
 
 ~ open Task Manager
 
-~ go to File Explorer ->`right click` -> `restart`
+~ go to `File Explorer` ->`right click` -> `restart`
 
 
 
